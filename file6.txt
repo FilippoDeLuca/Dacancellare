@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 linea13
+=======
+linea12
+>>>>>>> strano
 linea2
